@@ -1,2 +1,2 @@
-# Mandela-resolusi
+# mandela-resolusi
 Belajar web development
